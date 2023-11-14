@@ -1,5 +1,3 @@
-import nltk
-import re
 import pandas as pd
 import utils
 import database
