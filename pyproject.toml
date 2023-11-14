@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "desistenao"
+version = "0.1.0"
+description = "Projeto que busca fazer uma análise probalística da possibilidade de desistência de alunos do curso de S.I com base nos dados operados"
+authors = ["matheuso"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
